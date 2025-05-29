@@ -4,6 +4,33 @@ This project performs **Face Detection (FD)**, **Face Recognition (FR)**, and **
 
 ---
 
+To make your project easy to clone and run for others, you can add a “Download and Setup” section in your `README.md`. Here’s a section you can copy and paste directly:
+
+---
+
+## Download and Set Up the Repository
+
+### Option A: Clone with Git
+
+If you have Git installed:
+
+```bash
+git clone https://github.com/darrenleebanana/final_year_project.git
+cd final_year_project
+```
+
+### Option B: Download as ZIP
+
+1. Visit the [project repository](https://github.com/darrenleebanana/final_year_project)
+2. Click **Code** → **Download ZIP**
+3. Extract it and open the folder:
+
+   ```bash
+   cd final_year_project
+   ```
+
+---
+
 ## Project Structure
 
 ```
