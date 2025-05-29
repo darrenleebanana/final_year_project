@@ -4,10 +4,6 @@ This project performs **Face Detection (FD)**, **Face Recognition (FR)**, and **
 
 ---
 
-To make your project easy to clone and run for others, you can add a “Download and Setup” section in your `README.md`. Here’s a section you can copy and paste directly:
-
----
-
 ## Download and Set Up the Repository
 
 ### Option A: Clone with Git
